@@ -1,6 +1,6 @@
 This is a TensorFlow implementation of SD-GNN and TERME: GNN-Based Spatio-Temporal Manifold Learning: An Application of Landslide Prediction.
 
-# Terrain Surface Deformation Forecasting via Spatio-Temporal Manifold Learning
+# GNN-Based Spatio-Temporal Manifold Learning: An Application of Landslide Prediction
 
 More details of paper and dataset will be released after it is published.
 
